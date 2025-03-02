@@ -21,7 +21,9 @@
     },
     "permissions": [
         "scripting",
-        "storage"
+        "storage",
+        "identity",
+        "tabs"
     ],
     "host_permissions": [
         "https://*/*",
